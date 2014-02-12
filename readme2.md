@@ -3,6 +3,8 @@
   <head>
     <meta charset="utf-8">
     <title>WDI Prework</title>
+    <link rel="stylesheet" href="/css/bootstrap.css" media="all">
+    <link rel="stylesheet" href="/css/bootstrap-theme.css" media="all">
     <link rel="stylesheet" href="/css/main.css" media="all">
   </head>
   <body>
@@ -13,7 +15,7 @@
           <ul role="menubar">
             <li role="presentation"><a href="/setup" role="menuitem">Setup</a></li> 
             <li role="presentation"><a href="/primer" role="menuitem">Primer</a></li>
-            <li role="presentation"><a href="/about-us" role="menuitem">Aboutus</a></li>
+            <li role="presentation"><a href="/about-us" role="menuitem">About us</a></li>
             <li role="presentation"><a href="/contact-us" role="menuitem">Contact us</a></li>
           </ul>
       </nav>
@@ -672,6 +674,8 @@
         <h2>Contact info</h2>
       <!-- contact info here -->
     </section>
+    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="/js/bootstrap.js"></script>
     <script src="/js/main.js"></script>
   </body>
 </html>
