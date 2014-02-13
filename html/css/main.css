@@ -1,8 +1,7 @@
-body { color: red}
-
 body {
 	font-size: 18px;
   	min-height: 2000px;
+  	color: hsla(240, 15%, 30%, 1);
 }
 
 
@@ -15,3 +14,8 @@ body {
 	padding: 0;
 }
 
+main {
+	margin-top:  80px;
+}
+
+h2.lesson-title {margin-top: 0;}
