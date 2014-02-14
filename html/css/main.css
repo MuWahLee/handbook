@@ -30,6 +30,21 @@ h2.lesson-title {
 	background-color: hsla( 208, 55.9%,44.5%, 1 )
 }
 
+h3 {
+  font-size: 27px;
+  font-weight: normal;
+  color: hsla( 120, 39.6%, 46.0%, 1 );
+}
+
+
+mark.keyword {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 19px;
+  color: hsla( 2, 64.7%, 50.0%, 1 );
+  background-color: inherit;
+}
+
+em, strong { color: hsla( 120, 39.6%, 46.0%, 1 ); }
 
 .navbar-default a.navbar-brand { color: hsla( 204, 55.9%, 44.5%, 1 ); }
 .navbar-default a.navbar-brand:hover { color: hsla( 194, 66.4%, 53.3%, 1 ); }
@@ -58,4 +73,7 @@ aside.sidebar-nav ol ol ol {
 
 aside.sidebar-nav ol ol ol a { color: hsla( 2, 64.7%, 50.9%, 1 ); }
 aside.sidebar-nav ol ol ol a:hover { color: hsla( 194, 66.4%, 42.0%, 1 ); }
-aside.sidebar-nav .current-page {color: hsla( 2, 64.7%, 50.0%, 1 ); }
+aside.sidebar-nav .current-page {color: hsla( 2, 64.7%, 50.0%, 1 ); 
+
+
+
